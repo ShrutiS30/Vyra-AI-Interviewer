@@ -108,3 +108,4 @@ AI Interviewer/
 
 - **Backend (`server/`)**: Deploy as a Node.js Web Service on Render, Railway, or Fly.io with root directory `server`, build command `npm install`, start command `npm start`, and environment variables `GEMINI_API_KEY`, `PORT`, and `CLIENT_URL` (set to your deployed frontend URL).
 - **Frontend (`client/`)**: Deploy on Vercel or Netlify with root directory `client`, build command `npm run build`, output directory `dist`, and `VITE_API_URL` set to your deployed backend URL (plus Firebase env vars if enabled).
+
