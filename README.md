@@ -1,6 +1,6 @@
 # AI Interviewer — SDE Interview Studio
 
-# Live link : https://vyra-ai-interviewer.vercel.app/
+Live link : https://vyra-ai-interviewer.vercel.app/
 
 A full-stack AI-powered technical interview platform designed to simulate FAANG/MAANG Software Development Engineer (SDE) interviews with company-specific rounds, resume-driven questioning, voice-based interaction, and strict hiring-bar evaluation.
 
